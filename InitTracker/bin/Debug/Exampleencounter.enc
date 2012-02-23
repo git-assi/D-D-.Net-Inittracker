@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement xmlns="InitTracker">
+  <Exampleencounter>
+    <Name>Player 00</Name>
+    <Initiative>0</Initiative>
+    <_HP>11</_HP>
+    <_HP_akt>11</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>SC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Player 01</Name>
+    <Initiative>0</Initiative>
+    <_HP>11</_HP>
+    <_HP_akt>11</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>SC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Player 02</Name>
+    <Initiative>0</Initiative>
+    <_HP>18</_HP>
+    <_HP_akt>18</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>SC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Player 03</Name>
+    <Initiative>0</Initiative>
+    <_HP>19</_HP>
+    <_HP_akt>19</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>SC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Monster 04</Name>
+    <Initiative>0</Initiative>
+    <_HP>12</_HP>
+    <_HP_akt>12</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>NSC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Monster 05</Name>
+    <Initiative>0</Initiative>
+    <_HP>7</_HP>
+    <_HP_akt>7</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>NSC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Monster 06</Name>
+    <Initiative>0</Initiative>
+    <_HP>13</_HP>
+    <_HP_akt>13</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>NSC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Monster 07</Name>
+    <Initiative>0</Initiative>
+    <_HP>16</_HP>
+    <_HP_akt>16</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>NSC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Monster 08</Name>
+    <Initiative>0</Initiative>
+    <_HP>21</_HP>
+    <_HP_akt>21</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>NSC</Type>
+  </Exampleencounter>
+  <Exampleencounter>
+    <Name>Monster 09</Name>
+    <Initiative>0</Initiative>
+    <_HP>11</_HP>
+    <_HP_akt>11</_HP_akt>
+    <_hasIni>false</_hasIni>
+    <Type>NSC</Type>
+  </Exampleencounter>
+</DocumentElement>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitTracker", "InitTracker\InitTracker.csproj", "{4F7A4903-F64E-4F64-8EFF-3DF99841283C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7A4903-F64E-4F64-8EFF-3DF99841283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7A4903-F64E-4F64-8EFF-3DF99841283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7A4903-F64E-4F64-8EFF-3DF99841283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7A4903-F64E-4F64-8EFF-3DF99841283C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

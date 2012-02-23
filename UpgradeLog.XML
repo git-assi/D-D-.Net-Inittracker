@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InitTracker">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\InitTracker.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\InitTracker.suo">
+</Property><Property Name="Date" Value="Donnerstag, 16. Juni 2011">
+</Property><Property Name="Time" Value="18:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InitTracker.sln" Description="Datei wurde erfolgreich als &quot;C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="InitTracker.suo" Description="Datei wurde erfolgreich als &quot;C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\InitTracker.csproj" Description="Projektdatei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\InitTracker.csproj">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\frmMain.cs" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Form1.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Program.cs" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Program.cs">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Properties\Settings.settings" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\frmMain.resx" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\Properties\Resources.resx" Description="Datei erfolgreich gesichert als C:\Users\Florian\Documents\Visual Studio 2010\Projects\InitTracker\Backup\InitTracker\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\InitTracker.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="InitTracker" Source="InitTracker\InitTracker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InitTracker.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="InitTracker.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InitTracker" Source="InitTracker\InitTracker.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>
